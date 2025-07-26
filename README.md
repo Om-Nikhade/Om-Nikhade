@@ -1,63 +1,73 @@
-# 👋 Hi, I'm Om Nikhade!
+<h1 align="center">Hey 👋, I'm Om Nikhade</h1>
+<h3 align="center">🚀 Full Stack Java Developer | Spring Boot • React • CI/CD • DevOps • Cloud | MCA'26</h3>
 
-🎯 **Java Full Stack Developer | Spring Boot | React.js | CI/CD | DevOps | MCA'26**
-
----
-
-## 🚀 About Me
-
-I'm a passionate Full Stack Developer with hands-on experience building scalable web applications using **Java (Spring Boot), React.js, REST APIs**, and modern DevOps tools like **Jenkins, Docker, AWS, and Git**.
-
-🔧 I enjoy crafting efficient backend systems and clean, responsive frontends — and I love automating deployment pipelines that make life easier for dev teams.
-
-💡 Currently pursuing my **Master of Computer Applications (MCA)** from SPPU, I’m open to full-time opportunities, internships, or collaborations on open-source and impactful tech projects.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:**  
-`Java` | `JavaScript` | `HTML5` | `CSS3` | `SQL`
-
-**Frameworks & Libraries:**  
-`Spring Boot` | `React.js` | `JSP` | `Servlets` | `Bootstrap`
-
-**DevOps & Tools:**  
-`Git & GitHub` | `Jenkins` | `Docker` | `Maven` | `Kubernetes` | `AWS` | `Terraform` | `Prometheus & Grafana`
-
-**Database & Hosting:**  
-`MySQL` | `MongoDB` | `cPanel` | `Netlify` | `Heroku` (basic)
+<p align="center">
+  <a href="https://www.linkedin.com/in/om-nikhade/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:omenikhade@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://github.com/Om-devops" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-## 📈 Recent Projects
+### 💻 About Me
 
-### 📚 [Online Book Store System](https://github.com/Om-devops)
-> Java, JSP, Servlets, MySQL, HTML/CSS/Bootstrap  
-A responsive CRUD-based system to manage book inventory and customer orders.  
-✅ Features: Admin panel, login authentication, search/filter functionality.
+I'm a passionate 💡 **Full Stack Java Developer** with a strong foundation in **backend development**, **responsive UIs**, and **DevOps automation**. I love solving real-world problems with **clean code**, powerful APIs, and efficient cloud workflows.
 
----
-
-### ⚙️ CI/CD Automation for Spring Boot App
-> Jenkins, Maven, Git, Spring Boot  
-Automated build/test/deploy pipeline for a Java backend app using Jenkins and Maven.  
-✅ Result: Reduced deployment time from 60 mins → 10 mins.
+🎓 Currently pursuing **MCA @ SPPU** (2024–2026), and actively looking for **Full-Time / Internship** roles in backend, full stack, or DevOps-focused teams.
 
 ---
 
-### 🌐 WordPress + SEO Projects (Freelance)
-Delivered 5+ websites using WordPress and custom CSS  
-✅ Examples: `premconsultant.com`, `rainbowdigitech.com`, `oliveleaf.com`
+### 🧠 Tech Stack
+
+| 💻 Languages | ⚙️ Frameworks | 🚀 DevOps & Tools | ☁️ Cloud & DB |
+|--------------|----------------|-------------------|----------------|
+| `Java` `JavaScript` `HTML/CSS` | `Spring Boot` `React.js` `JSP/Servlets` | `Jenkins` `Docker` `Git` `Maven` | `AWS` `MySQL` `MongoDB` `Terraform` |
 
 ---
 
-## 📫 Let's Connect!
+### 🔥 Key Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/om-nikhade/)
-- 📧 omenikhade@gmail.com
-- 📱 +91 7248912056
+#### 📚 [Online Book Store System](https://github.com/Om-devops)
+> Tech: Java, JSP, Servlets, MySQL, Bootstrap  
+- Admin panel with authentication & session tracking  
+- CRUD for books + category-based search  
+- UI: Responsive, clean, modern bookshelf look
+
+#### ⚙️ CI/CD Automation for Spring Boot App
+> Tech: Jenkins, Maven, Spring Boot  
+- Automated build/test/deploy with webhooks  
+- Deployment time cut from 60 mins → 10 mins  
+- QA feedback loop improved by 30%
+
+#### 🌐 Freelance WordPress Sites
+> premconsultant.com | rainbowdigitech.com | oliveleaf.com  
+- Built & optimized SEO-first websites with 40% traffic increase  
+- Deployed using Hostinger, cPanel, and managed uptime to 99.9%
 
 ---
 
-> 💬 *“Clean Code, Scalable Systems, and Real-World Impact — that’s what I build.”*
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Om-devops&show_icons=true&theme=radical" alt="Om's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Om-devops&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Let's Connect & Collaborate
+
+- 📩 **Email:** omenikhade@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/om-nikhade](https://linkedin.com/in/om-nikhade)  
+- 🌐 **Portfolio & Projects:** *coming soon*
+
+---
+
+> ✨ *"I build clean backends, beautiful UIs, and smooth pipelines. Let’s create something impactful together."* — Om
