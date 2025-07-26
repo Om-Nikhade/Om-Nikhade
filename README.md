@@ -13,7 +13,7 @@
   <a href="mailto:omenikhade@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Om-devops">
+  <a href="https://github.com/Om-Nikhade">
     <img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
