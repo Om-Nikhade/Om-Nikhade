@@ -70,7 +70,6 @@ End-to-end pipeline automation for a Spring Boot application
 
 - 📧 **Email:** omenikhade@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/om-nikhade](https://linkedin.com/in/om-nikhade)  
-- 💻 **GitHub:** [github.com/Om-devops](https://github.com/Om-devops)
 
 ---
 
