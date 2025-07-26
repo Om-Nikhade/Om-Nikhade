@@ -1,77 +1,41 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  👋 Hi there, I'm <span style="color:#4e9af1;">Om Nikhade</span>
-</h1>
+<!-- GitHub Profile README | Om Nikhade -->
 
-<h3 align="center" style="font-weight: normal;">
-  💻 Full Stack Java Developer | Spring Boot • React • CI/CD • DevOps • Cloud | MCA'26
-</h3>
+<h1 align="center">👋 Hello, I'm <span style="color:#007acc;">Om Nikhade</span></h1>
+<h3 align="center">🚀 Full Stack Java Developer | Spring Boot • React • DevOps • CI/CD • AWS | MCA'26</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/om-nikhade/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
+  <a href="https://linkedin.com/in/om-nikhade" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:omenikhade@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Om-devops">
-    <img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-I'm a passionate Full Stack Java Developer skilled in building robust backends, modern UIs, and automating deployments. I love solving real-world problems using:
+I’m a results-driven **Full Stack Java Developer** with experience in building scalable web apps and automating deployment pipelines using modern DevOps tools.
 
-- ☕ **Java**, **Spring Boot**, **REST APIs**
-- ⚛️ **React.js**, **HTML5/CSS3**, **Bootstrap**
-- 🐳 **Docker**, **Jenkins**, **CI/CD Pipelines**
-- ☁️ **AWS**, **Terraform**, **MySQL**, **MongoDB**
+💡 I enjoy working across the **entire development stack** — from crafting RESTful APIs with Spring Boot to building beautiful interfaces in React.js and deploying them via Jenkins, Docker, and AWS.
 
-🎓 Currently pursuing **MCA @ Savitribai Phule Pune University** (2024–2026)
-
-💼 Actively looking for **Full-Time / Internship** opportunities in backend, full-stack, or cloud DevOps roles.
+🎓 Pursuing **MCA @ SPPU (2024–2026)**  
+🧑‍💻 Actively seeking **Full-Time/Internship opportunities** in Backend, Full Stack, or DevOps roles
 
 ---
 
-## 🚀 Projects That Reflect My Work
+### 🧰 Tech Stack
 
-### 🔹 [Online Book Store System](https://github.com/Om-devops)
-> **Tech:** Java, JSP, Servlets, MySQL, Bootstrap  
-A complete bookstore web app with user login, admin CRUD, and responsive UI.
+```txt
+🧩 Languages:      Java, JavaScript, HTML5, CSS3, SQL
+🛠 Frameworks:     Spring Boot, React.js, JSP, Servlets, Bootstrap
+⚙️ DevOps Tools:   Jenkins, Docker, Git, Maven, Kubernetes
+☁️ Cloud & Infra:  AWS, Terraform, Prometheus, Grafana, MySQL, MongoDB
 
-- ✅ Admin panel with authentication & session tracking  
-- ✅ Search/filter feature for book catalog  
-- ✅ 90% faster admin operations during testing
-
----
-
-### 🔹 CI/CD Automation for Java App
-> **Tech:** Jenkins, Spring Boot, Maven  
-End-to-end pipeline automation for a Spring Boot application
-
-- ⚙️ Deployment time reduced from 60 mins → 10 mins  
-- 🧪 Integrated testing and continuous builds  
-- 📦 Simplified release cycles for dev team
-
----
-
-### 🔹 Freelance WordPress Projects
-> premconsultant.com | rainbowdigitech.com | oliveleaf.com
-
-- 📈 SEO-optimized websites with 40% traffic growth  
-- 💻 Customized themes with mobile-first design  
-- 🌍 Hosting migration using Hostinger, Bluehost, and cPanel
-
----
-
-## 📫 Let's Connect
-
-- 📧 **Email:** omenikhade@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/om-nikhade](https://linkedin.com/in/om-nikhade)  
-- 💻 **GitHub:** [github.com/Om-devops](https://github.com/Om-devops)
-
----
-
-> *"Clean code. Scalable systems. Real-world impact. That’s my engineering mantra."* — Om
+### 📬 Connect with Me
+📧 Email: omenikhade@gmail.com
+💼 LinkedIn: linkedin.com/in/om-nikhade
